@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "下了模型，然后站在目录前面发呆"
-date: 2026-11-09 10:00:00 +0800
+date: 2026-11-09 00:12:00 +0800
 description: "文件名不会告诉你它是什么模型。但 safetensors 头里的张量名会。"
 tags: [comfyui, safetensors, 模型]
 ---

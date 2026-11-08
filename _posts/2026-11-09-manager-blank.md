@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Manager 装好了，打开是空的"
-date: 2026-11-09 10:00:00 +0800
+date: 2026-11-09 00:15:00 +0800
 description: "它默认拉 raw.githubusercontent.com。这个域名在很多网络里连不上。"
 tags: [comfyui, manager, 镜像]
 ---
