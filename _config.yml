@@ -1,0 +1,17 @@
+title: 痒局长
+description: 被卡住了，才动手写的小工具
+baseurl: ""
+url: "https://ainjuzen.github.io"
+
+theme: minima
+lang: zh-CN
+
+header_pages:
+  - about.md
+
+show_excerpts: true
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
